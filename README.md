@@ -202,19 +202,11 @@ Contributions are welcome! Please follow these steps:
 
 This project is available for educational and research purposes.
 
-## 👥 Authors
-
-- **Praveenraj1618** - [GitHub](https://github.com/Praveenraj1618)
 
 ## 🙏 Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection framework
 - React and the open-source community for frontend tools
 
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub or contact: praveenrajb1618@gmail.com
-
----
 
 **Note**: This system is designed for railway track monitoring and defect detection. Ensure proper validation and testing before deployment in production environments.
